@@ -9,6 +9,7 @@ import {
 import { Button } from "./button";
 import { Card } from "./card";
 import { Sheet, SheetContent, SheetHeader, SheetTrigger } from "./sheet";
+import React from "react";
 
 const Header = () => {
   return (
